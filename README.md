@@ -15,6 +15,7 @@ Dataset name + variable + units + basin name
 - GLWS2 Reanalysis fields for groundwater storage (mm, absolute value), soil moisture storage (mm, absolute value), surface water storage (mm, absolute value), total terrestrial water storage (mm, ANOMALY)
 - GRUN-ENS Runoff Reconstruction (mm/day)
 - DAHITI water level data (m)
+- VODCA X-band VOD
 - GRDC polygons for basins
 
 ## Methods:
