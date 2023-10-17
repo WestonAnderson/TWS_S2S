@@ -20,8 +20,8 @@ Dataset name + variable + units + basin name
 ## Methods:
 
 ### Data Processing TWS:
--(1) Deaseasonalize the data (anomalies relative to seasonal cycle)
--(2) Linearly detrend
+- (1) Deaseasonalize the data (anomalies relative to seasonal cycle)
+- (2) Linearly detrend
 
 ### Basin-scale analysis:
 Variables are trimmed using GRDC polygons, variables are area-weighted and aggregated to the basin scale at the monthly timestep. Variables are converted to monthly anomalies by subtracting the climatology and then standardized before calculating the autocorrelation and cross-correlation. For now, missing TWS data is linearly interpolated if there are fewer than 3 values missing and only data from 2002-2016 is used until we decide how to deal with the gap between GRACE and GRACE FO
