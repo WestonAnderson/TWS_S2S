@@ -8,14 +8,14 @@ A list of meeting notes from the project can be found [here](https://docs.google
 ## Datasets used in the analysis
 Dataset name + variable + units + basin name
 
-FLDAS Precipitation (mm/day)
-GLEAM Surface and Root Zone Soil Moisture (mm3/mm3)
-GIMMS 4g LAI (m2/m2)
-GRACE-RL06 Liquid Water Equivalent (cm)
-GLWS2 Reanalysis fields for groundwater storage (mm, absolute value), soil moisture storage (mm, absolute value), surface water storage (mm, absolute value), total terrestrial water storage (mm, ANOMALY)
-GRUN-ENS Runoff Reconstruction (mm/day)
-DAHITI water level data (m)
-GRDC polygons for basins
+- FLDAS Precipitation (mm/day)
+- GLEAM Surface and Root Zone Soil Moisture (mm3/mm3)
+- GIMMS 4g LAI (m2/m2)
+- GRACE-RL06 Liquid Water Equivalent (cm)
+- GLWS2 Reanalysis fields for groundwater storage (mm, absolute value), soil moisture storage (mm, absolute value), surface water storage (mm, absolute value), total terrestrial water storage (mm, ANOMALY)
+- GRUN-ENS Runoff Reconstruction (mm/day)
+- DAHITI water level data (m)
+- GRDC polygons for basins
 
 ## Methods:
 
