@@ -1,9 +1,10 @@
 # Subseasonal to seasonal (S2S) Terrestrial water storage (TWS) Github
 
-The project document with research questions, methods, and proposed datasts can be found [here](https://docs.google.com/document/d/1zxjAwmp0WKjTjrPXQ_zq9LG_gzlNKSq5iVJmAVhnPvg/edit)
+- The project document with research questions, methods, and proposed datasts can be found [here](https://docs.google.com/document/d/1zxjAwmp0WKjTjrPXQ_zq9LG_gzlNKSq5iVJmAVhnPvg/edit)
 
-A list of meeting notes from the project can be found [here](https://docs.google.com/document/d/1qAJKye5W6mPPwAZFzEdG7rBslx4xFyBmhCC6v--O0zc/edit)
+- A list of meeting notes from the project can be found [here](https://docs.google.com/document/d/1qAJKye5W6mPPwAZFzEdG7rBslx4xFyBmhCC6v--O0zc/edit)
 
+- A google slide deck of preliminary findings is [here](https://docs.google.com/document/d/1qAJKye5W6mPPwAZFzEdG7rBslx4xFyBmhCC6v--O0zc/edit?usp=sharing)
 
 ## Datasets used in the analysis
 Dataset name + variable + units + basin name
