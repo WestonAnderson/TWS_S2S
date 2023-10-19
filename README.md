@@ -25,10 +25,15 @@ Dataset name + variable + units + basin name
 - Deaseasonalize the data (anomalies relative to seasonal cycle)
 - Linearly detrend
 
-### Basin-scale analysis:
+### Basin-scale pre-process:
 - variables are trimmed using GRDC polygons
 - variables are area-weighted and aggregated to the basin scale at the monthly timestep
 - variables are converted to monthly anomalies by subtracting the climatology
 - standardized
-- For now, missing TWS data is linearly interpolated if there are fewer than 3 values missing and only data from 2002-2016 is used until we decide how to deal with the gap between GRACE and GRACE FO
+  
+### Missing GRACE data
+- Missing data is handled in a few different ways:
+    1. Infilled with climatology everywhere, including the nearly year-long gap from July 2017 - May 2018. 
+
+### Basin-scale analysis:
 - calculating the autocorrelation and cross-correlation at basin scale for lags up to 9 months
