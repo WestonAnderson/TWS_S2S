@@ -4,7 +4,7 @@
 
 - A list of meeting notes from the project can be found [here](https://docs.google.com/document/d/1qAJKye5W6mPPwAZFzEdG7rBslx4xFyBmhCC6v--O0zc/edit)
 
-- A google slide deck of preliminary findings is [here](https://docs.google.com/document/d/1qAJKye5W6mPPwAZFzEdG7rBslx4xFyBmhCC6v--O0zc/edit?usp=sharing)
+- A google slide deck of preliminary findings is [here](https://docs.google.com/presentation/d/1IsyFnAmGQ887-0ufJH2BVsX2p2lxu5W47H4boSAdrtA/edit#slide=id.g290c274fe44_0_12)
 
 ## Datasets used in the analysis
 Dataset name + variable + units + basin name
