@@ -12,7 +12,7 @@ Dataset name + variable + units + basin name
 - FLDAS Precipitation (mm/day)
 - GLEAM Surface and Root Zone Soil Moisture (mm3/mm3)
 - GIMMS 4g LAI (m2/m2)
-- GRACE-RL06 Liquid Water Equivalent (cm) (Mascons?)
+- GRACE-RL06 Liquid Water Equivalent (cm) (CSR_GRACE_GRACE-FO_RL06_Mascons_all-corrections_v02)
 - GLWS2 Reanalysis fields for groundwater storage (mm, absolute value), soil moisture storage (mm, absolute value), surface water storage (mm, absolute value), total terrestrial water storage (mm, ANOMALY)
 - GRUN-ENS Runoff Reconstruction (mm/day)
 - DAHITI water level data (m)
