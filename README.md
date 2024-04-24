@@ -18,6 +18,7 @@ Dataset name + variable + units + basin name
 - DAHITI water level data (m)
 - VODCA X-band VOD
 - GRDC polygons for basins
+- SWE from ERA5 (with comparisons to others)
 
 ## Methods:
 
